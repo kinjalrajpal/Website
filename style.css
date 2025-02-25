@@ -1,0 +1,158 @@
+body{
+    background-color: #1A1C19;
+}
+
+.list{
+    list-style: none;
+    display: flex;
+    
+}
+
+.first{
+    border: 1px solid bisque;
+    border-radius: 40px;
+    height: 70px;
+}
+
+.company{
+    margin-left: 50px;
+    background-color: #323025;
+    width: 200px;
+    height: 25px;
+    border-radius: 50px;
+    padding: 7px;
+    justify-content: center;
+    color:bisque;
+    
+}
+
+.col{
+    margin-left: 50px;
+    background-color:#B1A592;
+    width: 200px;
+    height:25px;
+    border-radius: 50px;
+    padding: 7px;
+    justify-content: center;
+    color: black;
+}
+
+.menu{
+    margin-left: 50px;
+    background-color:black;
+    width: 200px;
+    height: 25px;
+    color:bisque;
+    border-radius: 50px;
+    padding: 7px;
+    justify-content: center;
+    border: 1px solid #B1A592;
+}
+
+.event{
+    margin-left: 50px;
+    background-color:black;
+    width: 200px;
+    height: 25px;
+    color:bisque;
+    border-radius: 50px;
+    padding: 7px;
+    justify-content: center;
+    border: 1px solid #B1A592;
+}
+
+.contact{
+    margin-left: 50px;
+    color:bisque;
+    background-color:black;
+    width: 200px;
+    height:25px;
+    border-radius: 50px;
+    padding: 7px;
+    justify-content: center;
+    border: 1px solid #B1A592;
+}
+
+.loreum{
+    width: 207;
+    height: 34;
+    top: 132px;
+    left: 53px;
+    border-radius: 50px;
+    border-width: 1px;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 200px;
+     margin-left: 20px;
+}
+
+.img1{
+    border: 1px solid blanchedalmond;
+    width:500px;
+    height: 655px;
+    margin-left: 20px;
+    border-radius:24px;
+    background-color: #DFD6C5;
+    display: inline-block;
+}
+
+.ss1{
+    height: 500px;
+    width: 450px;
+    padding-left: 25px;
+}
+
+.img2{
+    border: 1px solid rgb(75, 99, 75);
+    width:500px;
+    height: 460px;
+    margin-left: 20px;
+    border-radius:24px;
+    background-color:rgb(75, 99, 75);
+    float: inline-end;
+}
+
+.ss2{
+    padding-left: 25px;
+    width: 450px;
+   display: flex;
+}
+
+.div{
+   
+}
+
+.img3{
+    border: 1px solid rgb(85, 39, 39);
+    width:500px;
+    height: 600px;
+    margin-left: 20px;
+    border-radius:24px;
+    background-color: rgb(85, 39, 39);
+    
+}
+
+.ss3{
+    padding-left: 25px;
+    width: 450px;
+    padding-top: 10px;
+}
+
+.img4{
+    border: 1px solid blanchedalmond;
+    width:500px;
+    height: 550px;
+    margin-left: 20px;
+    border-radius:24px;
+    background-color: #DFD6C5;
+    float: inline-end;
+}
+
+.ss4{
+   float: inline-end;
+   padding-right: 30px;
+}
+
+.para{
+    margin-left: 20px;
+}
